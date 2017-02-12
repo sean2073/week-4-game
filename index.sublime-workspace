@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"but",
+				"butVal"
+			],
+			[
+				"co",
+				"computerGuess"
+			],
+			[
+				"up",
+				"updateGuesses"
+			],
+			[
+				"Letters",
+				"lettersGuessed"
+			],
+			[
+				"rese",
+				"resetFunction"
+			],
+			[
+				"c",
+				"computerGuess"
+			],
+			[
+				"le",
+				"lettersGuessed"
+			],
+			[
+				"ge",
+				"getComputerGuess"
+			],
+			[
+				"l",
+				"letterArray"
+			],
+			[
+				"gue",
+				"guessLeft"
+			],
+			[
+				"to",
+				"totalWin"
+			],
+			[
+				"lo",
+				"loses"
+			],
+			[
+				"w",
+				"wins"
+			],
+			[
+				"gu",
+				"guessLeft"
+			],
+			[
+				"u",
+				"userGuess"
+			],
+			[
+				"us",
+				"userInput"
+			],
+			[
+				"ran",
+				"randLetter"
+			],
+			[
+				"get",
+				"getLetter"
+			],
+			[
+				"p",
+				"psychicGame"
+			],
+			[
+				"onk",
+				"onkeyup\tAttr"
+			],
+			[
+				"ne",
+				"newString"
+			],
+			[
+				"current",
+				"currentword"
+			],
+			[
+				"new",
+				"newArray"
+			],
+			[
+				"n",
+				"newString"
+			],
+			[
+				"r",
+				"remaining"
+			],
+			[
+				"numb",
+				"numberOfGuesses"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"com",
+				"compareFunction"
+			],
+			[
+				"nu",
+				"number-of-guesses"
+			],
+			[
+				"cur",
+				"current-word"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"pb",
+				"pbEaten"
+			],
+			[
+				"d",
+				"drinkList"
+			],
+			[
+				"dr",
+				"drink-options"
+			],
+			[
+				"drink",
+				"drinkDiv"
+			],
+			[
+				"drin",
+				"drink-options"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"g",
+				"getWord"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"gam",
+				"gameHangmen"
+			],
+			[
+				"ga",
+				"gameHangmen"
+			],
+			[
+				"my",
+				"myFunction"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"word",
+				"wordArray"
+			],
+			[
+				"well",
+				"well-sm"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"zoo",
+				"zooAnimals"
+			],
+			[
+				"con",
+				"Contact"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"an",
+				"answer2"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"font-",
+				"font-kerning"
+			],
+			[
+				"fon",
+				"font-feature-settings"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"align-",
+				"align-content"
+			],
+			[
+				"bot",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"border-t",
+				"border-top-width"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"f",
+				"f4f4f4"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "Pack",
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/week-4-game/assets/javascript/game.js",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Hangman-Game/index5.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Hangman-Game/test.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Psychic-Game/index.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week4/jquery-calculator-starter.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week4/this-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Bootstrap-Portfolio/index.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Psychic-Game/assets/Javascript/game.js",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Psychic-Game/test.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Hangman-Game/assets/css/style.css",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Basic-Portfolio/contact.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Hangman-Game/index6.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Hangman-Game/index4.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/my-first-functions-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/loop-tv-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/array-setting-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Hangman-Game/index.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/car-object-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Hangman-Game/index2.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week4/jquery-drinklist-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week4/sandwich-click-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week4/drinklist-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week4/onclick.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/arrays.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/arrays-activity.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Responsive-Portfolio/index.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Bootstrap-Portfolio/assets/css/style.css",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/another-loop2.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/array-logs-unsolved.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Bootstrap-Portfolio/portfolio.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Bootstrap-Portfolio/contact.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week2/bootstrap2.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Bootstrap-Portfolio/contact2.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/rps-2.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Bootstrap-Portfolio/composer.json",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Bootstrap-Portfolio/index.php",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Responsive-Portfolio/assets/css/style.css",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week2/untitled.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/document-write2.html",
+		"/Volumes/KINGSTON/clients/shadypines/site/resources/css/global.css",
+		"/Volumes/KINGSTON/clients/shadypines/site/index.html",
+		"/Volumes/G-DRIVE mobile USB/clients/Sugar Plum/site/index2.htm",
+		"/Users/seanbyfield/Downloads/js-dissect.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/basic-variables-demo.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/pizza-variables.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/pizza-variables-2.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/alert-prompt-confirm.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week3/alert-prompt-confirm2.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Responsive-Portfolio/portfolio.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Basic-Portfolio/index.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week2/index4.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week2/index.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week2/index3.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week2/Example.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/HW-Wireframe-master/index.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Basic-Portfolio/portfolio.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Responsive-Portfolio/contact.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/Week2/pseudo.html",
+		"/Users/seanbyfield/Documents/Rutgers Coding Bootcamp/HW-Wireframe-master/style.css",
+		"/Users/seanbyfield/Documents/Basic-Portfolio/assets/css/reset.css",
+		"/Users/seanbyfield/Documents/Basic-Portfolio/assets/css/style.css",
+		"/Users/seanbyfield/Documents/Basic-Portfolio/assets/images/instagram-Logo-PNG-Transparent-Background-download.png",
+		"/Users/seanbyfield/Downloads/2-ResetCSS/reset.css",
+		"/Users/seanbyfield/Downloads/2-ResetCSS/Example.html",
+		"/Users/seanbyfield/Documents/style.css",
+		"/Users/seanbyfield/Documents/index.html",
+		"/Users/seanbyfield/Documents/Week2/index.html",
+		"/Users/seanbyfield/Documents/Week2/style.css",
+		"/Users/seanbyfield/Documents/Week2/index3.html",
+		"/Users/seanbyfield/Documents/testrepo/index.html",
+		"/Users/seanbyfield/Documents/Week2/index2.html",
+		"/Users/seanbyfield/Documents/HW-Wireframe-master/index.html",
+		"/Users/seanbyfield/Documents/Week1/easier-homework.html",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-10/javascript2.js",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-10/index.html",
+		"/Users/seanbyfield/Documents/float-activity/floats.html",
+		"/Users/seanbyfield/Documents/float-activity/floats.css",
+		"/Users/seanbyfield/Documents/Week1/easier-style.css",
+		"/Users/seanbyfield/Documents/position-activity/positioning.css",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-10/javascript.js",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-9/index.html",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-9/chocolate.html",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-10/index2.html",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-10/test.html",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-10/test.js",
+		"/Users/seanbyfield/Documents/position-activity/positioning.html",
+		"/Users/seanbyfield/Documents/PREWORK_SBB/Module-8/fanpage.html"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sean",
+			"edna",
+			"jumbotron",
+			"totalGuesses",
+			"computerChoices",
+			"computerGuess",
+			"guesses",
+			"\"guesses\"",
+			"guesses",
+			"computerGuess",
+			"guessed",
+			"letters-guessed",
+			"currentWordFull",
+			"currentword",
+			"newString",
+			"wells"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Basic-Portfolio/contact.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
