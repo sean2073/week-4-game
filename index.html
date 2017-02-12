@@ -2,27 +2,23 @@
 <html>
 <head>
  <title>Crystal Collector Game</title>
- 
- <style type="text/css">
-
-   .crystal-image {
-     width: 80px;
-     height: 80px;
-   }
- </style>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
  <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
 
 </head>
 <body>
 <div class="row">
   <div class="col-sm-12">
-    <h1>CrystalsCollector!</h1>
+    <div id="game-title"><h1>CrystalsCollector!</h1></div>
   </div>
 </div>
 <div class="row">
   <div class="col-sm-12">
+    <div id="paragraph">
     <p>You will be given a random number at the start of the game.
     </p>
     <br>
@@ -35,18 +31,23 @@
     <p>Each time when the game starts, the game will change the values of each crystal.
     <br></p>
   </div>
+  </div>
 </div>
 <div class="row">
   <div class="col-md-6">
 
-    <div><h1>Number to Guess: <div id="number-to-guess"></div></h1></div>
+    <div id="random-number"><h3> <div id="number-to-guess"></div></h3></div>
   </div>
   <div class="col-md-6">
+   <div id="totals">
     <div id="Message"></div>
-    <h2>Wins: </h2><div id="wins"></div>
-    <h2>Loses: </h2><div id="loses"></div>
+    Wins: <div id="wins"></div>
+    Loses:<div id="loses"></div>
+   </div>
   </div>
 </div>
+<br>
+<div class="row"></div>
 <div class="row">
   <div class="col-sm-12">
     <!-- Note that this div is now empty. We will fill it dynamically -->
@@ -55,7 +56,7 @@
  </div>
  <div class="row">
   <div class="col-sm-12">
-    <h2>Your total score is: </h2><br>
+    <div id="total-score"><h3>Your total score is: </h3></div>
     <div id="score"></div>
   </div>
 </div>

@@ -3,7 +3,8 @@
   var counter = 0;
   var number;
   var randNum;
-  
+  var winCounter = 0;
+  var loseCounter = 0;
   var numberOptions = [];
  
  // get a random number between 19 and 120 
@@ -105,18 +106,22 @@ var randomCrystalNumber = function()
 
 
    // All of the same game win-lose logic applies. So the rest remains unchanged.
-   alert("New score: " + counter);
+   //alert("New score: " + counter);
    console.log("Random Number = " + randNum);
    console.log("Score so far = " + counter);
 
    if (counter === randNum) {
     // alert("You win!");
      $("#Message").html("You Win!");
+     winCounter++;
+     $("#wins").append(winCounter);
    }
 
    else if (counter >= randNum) {
      //alert("You lose!!");
      $("#Message").html("You Lose!");
+     loseCounter++;
+     $("#loses").append(loseCounter);
    }
 
  });
